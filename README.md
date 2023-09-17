@@ -1,2 +1,3 @@
 # apnacolleg-demo
-this my try repsitory
+this is my try repsitory
+Author -Arshad TV
